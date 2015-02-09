@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO305: Genetics"
+course_description: "An examination of various topics in genetics, focusing on DNA, genes, and chromosomes. Topics include: crosses, mitosis and meiosis, protein synthesis, linkage, chromosome mapping, anomalies and disorders, and genetics technology and tools."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Mendelian Genetics** <span id="1"></span> 
 *This first unit consists of an overview of Gregor Mendel’s ideas about
 genetics, published in 1886. Mendel discovered that the traits of a

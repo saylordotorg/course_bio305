@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO305: Genetics"
+course_description: "An examination of various topics in genetics, focusing on DNA, genes, and chromosomes. Topics include: crosses, mitosis and meiosis, protein synthesis, linkage, chromosome mapping, anomalies and disorders, and genetics technology and tools."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Linkage Mapping** <span id="4"></span> 
 
 *We are going to discuss the location of genes on the chromosome, what

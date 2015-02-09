@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO305: Genetics"
+course_description: "An examination of various topics in genetics, focusing on DNA, genes, and chromosomes. Topics include: crosses, mitosis and meiosis, protein synthesis, linkage, chromosome mapping, anomalies and disorders, and genetics technology and tools."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Eukaryotic Genes and Genomes** <span id="8"></span> 
 *Genome refers to the entire DNA content of an organism. There is no
 obvious correlation between the complexity of the organism and the size

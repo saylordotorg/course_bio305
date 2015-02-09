@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO305: Genetics"
+course_description: "An examination of various topics in genetics, focusing on DNA, genes, and chromosomes. Topics include: crosses, mitosis and meiosis, protein synthesis, linkage, chromosome mapping, anomalies and disorders, and genetics technology and tools."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: The Internal Structure of Genes** <span id="6"></span> 
 
 *From the late 1950s to the 1980s, scientists were attempting to crack

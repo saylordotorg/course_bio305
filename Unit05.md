@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO305: Genetics"
+course_description: "An examination of various topics in genetics, focusing on DNA, genes, and chromosomes. Topics include: crosses, mitosis and meiosis, protein synthesis, linkage, chromosome mapping, anomalies and disorders, and genetics technology and tools."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Chromosomal Genetics and Structure** <span id="5"></span> 
 *Karyotyping is the study of the physical structure of chromosomes that
 can be observed through staining. Although karyotyping has been around

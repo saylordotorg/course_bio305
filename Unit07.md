@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO305: Genetics"
+course_description: "An examination of various topics in genetics, focusing on DNA, genes, and chromosomes. Topics include: crosses, mitosis and meiosis, protein synthesis, linkage, chromosome mapping, anomalies and disorders, and genetics technology and tools."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Bacterial Genetics** <span id="7"></span> 
 *Scientists have come to understand bacterial genetics. Bacteria are
 prokaryotes, and they multiple by binary fission. Binary fission is a

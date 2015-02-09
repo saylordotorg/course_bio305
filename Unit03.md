@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO305: Genetics"
+course_description: "An examination of various topics in genetics, focusing on DNA, genes, and chromosomes. Topics include: crosses, mitosis and meiosis, protein synthesis, linkage, chromosome mapping, anomalies and disorders, and genetics technology and tools."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Extension of Mendelian Genetics** <span id="3"></span> 
 
 *Believe it or not, after Mendel published his groundbreaking work in

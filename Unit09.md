@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO305: Genetics"
+course_description: "An examination of various topics in genetics, focusing on DNA, genes, and chromosomes. Topics include: crosses, mitosis and meiosis, protein synthesis, linkage, chromosome mapping, anomalies and disorders, and genetics technology and tools."
+next: ../../../
+previous: ../Unit08
+---
 **Unit 9: Population and Evolutionary Genetics** <span id="9"></span> 
 *This last unit will focus on the relationship between genetics,
 populations of organisms, and evolution. Our modern understanding of
