@@ -160,7 +160,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Assessment: The Saylor Foundation's “Mendelian Inheritance of
     Traits”**
     Link: The Saylor Foundation's [“Mendelian Inheritance of
-    Traits”](http://www.saylor.org/site/wp-content/uploads/2013/05/Mendelian_Inheritance_of_Traits.html)
+    Traits”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Mendelian_Inheritance_of_Traits.html)
     (HTML)  
         
      Instructions: Complete this multiple choice assessment. Clicking on
@@ -177,7 +177,7 @@ Upon successful completion of this unit, you will be able to:
     Mendel’s Sweet Peas”**
     Link: The Saylor Foundation’s [“A Monohybrid Cross Example Using
     Mendel’s Sweet
-    Peas”](http://www.saylor.org/site/wp-content/uploads/2011/07/A-Monohybrid-Cross-Example-Using-Mendel%E2%80%99s-Sweet-Peas.pdf) (PDF)  
+    Peas”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/A-Monohybrid-Cross-Example-Using-Mendel%E2%80%99s-Sweet-Peas.pdf) (PDF)  
         
      Instructions: Read this article for an overview of a monohybrid
     cross.  
@@ -199,7 +199,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Assessment: The Saylor Foundation’s “Independent Assortment –
     Dihybrid Cross”**
     Link: The Saylor Foundation’s [“Independent Assortment – Dihybrid
-    Cross”](http://www.saylor.org/site/wp-content/uploads/2013/05/Independent_Assortment_Dihybrid.html)
+    Cross”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Independent_Assortment_Dihybrid.html)
     (HTML)  
         
      Instructions: Complete this multiple choice assessment. Clicking on

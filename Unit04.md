@@ -148,11 +148,11 @@ id="4.4"></span> 
 **4.5 Mapping Problems** <span id="4.5"></span> 
 -   **Assessment: The Saylor Foundation’s “Genetics Practice Problems”**
     Link: The Saylor Foundation’s [“Genetics Practice
-    Problems”](http://www.saylor.org/site/wp-content/uploads/2011/07/Genetics-Practice-Problems.pdf) (PDF)  
+    Problems”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/Genetics-Practice-Problems.pdf) (PDF)  
         
      Instructions: Work through these genetics problems. Check your
     answers against the [answer
-    key](http://www.saylor.org/site/wp-content/uploads/2014/03/BIO305-4.5-Genetic-Practice-Problems-Answers.pdf)
+    key](https://resources.saylor.org/archived/wp-content/uploads/2014/03/BIO305-4.5-Genetic-Practice-Problems-Answers.pdf)
     (PDF).  
         
      Completing this assessment should take approximately 15 minutes.

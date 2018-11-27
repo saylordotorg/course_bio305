@@ -74,7 +74,7 @@ Upon successful completion of this course, you will be able to:
 -   **Reading: The Saylor Foundation’s “Chromosomes, Chromatids, Loci,
     and Alleles”**
     Link: The Saylor Foundation’s [“Chromosomes, Chromatids, Loci, and
-    Alleles”](http://www.saylor.org/site/wp-content/uploads/2011/07/Chromosomes-Chromatids-Loci-and-Alleles.pdf) (PDF)  
+    Alleles”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/Chromosomes-Chromatids-Loci-and-Alleles.pdf) (PDF)  
         
      Instructions: Read this article for an overview of the proper
     definition and use of the following terms: chromosome, chromatid,
@@ -272,7 +272,7 @@ id="2.3.1"></span> 
     Genetic Variation”**
     Link: The Saylor Foundation’s [“Recombination, Chiasmata, and
     Genetic
-    Variation”](http://www.saylor.org/site/wp-content/uploads/2011/07/Recombination-Chiasmata-and-Genetic-Variation.pdf) (PDF)  
+    Variation”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/Recombination-Chiasmata-and-Genetic-Variation.pdf) (PDF)  
         
      Instructions: Read this article, which provides an illustrated
     example of the process of recombination. Recombination eventually
@@ -304,7 +304,7 @@ id="2.3.1"></span> 
     Reductional Division”**
     Link: The Saylor Foundation’s [“Meiosis I and the Role of
     Reductional
-    Division”](http://www.saylor.org/site/wp-content/uploads/2011/07/Meiosis-I-and-the-Role-of-Reductional-Division.pdf) (PDF)  
+    Division”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/Meiosis-I-and-the-Role-of-Reductional-Division.pdf) (PDF)  
         
      Instructions: Read this article, which illustrates the process of
     meiosis I and how it relates to reductional division.  
@@ -316,7 +316,7 @@ id="2.3.1"></span> 
     Equational Division”**
     Link: The Saylor Foundation’s [“Meiosis II and the Role of
     Equational
-    Division”](http://www.saylor.org/site/wp-content/uploads/2011/07/Meiosis-II-and-the-Role-of-Equational-Division.pdf) (PDF)  
+    Division”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/Meiosis-II-and-the-Role-of-Equational-Division.pdf) (PDF)  
         
      Instructions: Read this article, which illustrates the process of
     meiosis II and how it relates to equational division.  
