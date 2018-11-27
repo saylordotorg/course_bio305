@@ -106,7 +106,7 @@ Upon successful completion of this unit, you will be able to:
 **9.1.2 Phenotypic Frequency** <span id="9.1.2"></span> 
 -   **Reading: The Saylor Foundation’s “Phenotypic Frequency”**
     Link: The Saylor Foundation’s [“Phenotypic
-    Frequency”](http://www.saylor.org/site/wp-content/uploads/2011/07/Phenotypic-Frequency.pdf) (PDF)  
+    Frequency”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/Phenotypic-Frequency.pdf) (PDF)  
         
      Instructions: Read this article for an overview of phenotypic
     frequencies.  
@@ -252,7 +252,7 @@ id="9.3.2"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Antibiotic Resistance”**
     Link: The Saylor Foundation’s [“Antibiotic
-    Resistance”](http://www.saylor.org/site/wp-content/uploads/2013/05/Antibiotic_Resistance_main.html)
+    Resistance”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Antibiotic_Resistance_main.html)
     (HTML)  
         
      Instruction: Complete this multiple choice assessment. Clicking on
@@ -267,7 +267,7 @@ id="9.3.2"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Phage Therapy”**
     Link: The Saylor Foundation’s [“Phage
-    Therapy”](http://www.saylor.org/site/wp-content/uploads/2013/05/Phage_Therapy_main.html)
+    Therapy”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Phage_Therapy_main.html)
     (HTML)  
         
      Instruction: Complete this multiple choice assessment. Clicking on
@@ -385,7 +385,7 @@ id="9.3.4"></span> 
 
 -   **Reading: The Saylor Foundation’s “The Future of Research”**
     Link: The Saylor Foundation’s [“The Future of
-    Research”](http://www.saylor.org/site/wp-content/uploads/2011/07/The-Future-of-Genetic-Research.pdf) (PDF)  
+    Research”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/The-Future-of-Genetic-Research.pdf) (PDF)  
         
      Instructions: Read this article. The purpose of this subunit is to
     give you a new perspective on the future of genetic research while

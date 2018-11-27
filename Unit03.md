@@ -433,7 +433,7 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Assessment: The Saylor Foundation’s “Family Pedigree”**
     Link:The Saylor Foundation’s [“Family
-    Pedigree”](http://www.saylor.org/site/wp-content/uploads/2013/05/Pedigree_main.html) (HTML)  
+    Pedigree”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Pedigree_main.html) (HTML)  
         
      Instruction: Complete this multiple choice assessment. You will
     find links to five pedigrees on this page. You will be asked to
